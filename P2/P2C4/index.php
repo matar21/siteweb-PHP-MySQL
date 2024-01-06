@@ -80,6 +80,6 @@ $recipes = [
             }
         }
     ?>
-    <h2>Veillez juger et repondre svp!</h2>
+    <h2>Veillez juger et repondre svp! </h2>
 </body>
 </html>
